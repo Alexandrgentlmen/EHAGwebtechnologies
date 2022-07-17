@@ -1,0 +1,11 @@
+.footer {
+  margin-top: 30px;
+}
+.footer .center-align {
+  color: #757575;
+  font-family: "Muli", sans-serif;
+}
+.footer .center-align span {
+  color: var(--main-color);
+}
+/*# sourceMappingURL=footer.css.map */
