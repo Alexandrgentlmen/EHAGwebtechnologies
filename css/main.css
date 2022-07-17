@@ -1088,7 +1088,7 @@ li.nav-menu__item .nav-menu__link:hover span {
 }
 .experience__content {
   padding: 20px;
-  min-width: 356px;
+  min-width: 336px;
   width: 44%;
   font-family: "Raleway", sans-serif;
 }
@@ -1197,7 +1197,7 @@ li.nav-menu__item .nav-menu__link:hover span {
 }
 .timeline-block::before {
   content: "";
-  width: 122px;
+  width: 135px;
   height: 4px;
   position: absolute;
   top: 26px;
