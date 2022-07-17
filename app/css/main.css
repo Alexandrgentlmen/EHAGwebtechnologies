@@ -1,7 +1,7 @@
 @charset "UTF-8";
 :root {
   --font-family: "Raleway", sans-serif;
-  --content-width: 1170px;
+  --content-width: 1920px;
   --container-offset: 15px;
   --container-width: calc(var(--content-width) + (var(--container-offset) * 2));
   --gap: 15px;
@@ -1197,7 +1197,7 @@ li.nav-menu__item .nav-menu__link:hover span {
 }
 .timeline-block::before {
   content: "";
-  width: 82px;
+  width: 122px;
   height: 4px;
   position: absolute;
   top: 26px;
